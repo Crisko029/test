@@ -5,5 +5,3 @@ fa
 fdf
 
 
-g
-h
